@@ -1,0 +1,4 @@
+[2024-10-23 18:52:47] ERROR: Email sending:No system SMTP settings.; 0
+[2024-10-23 18:53:00] ERROR: Email sending:No system SMTP settings.; 0
+[2024-10-23 18:56:57] ERROR: Email sending:No system SMTP settings.; 0
+[2024-10-23 19:19:18] ERROR: Could not send user access info. Can't send access info. SMTP is not configured.
